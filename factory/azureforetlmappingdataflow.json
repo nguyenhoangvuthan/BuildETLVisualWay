@@ -1,0 +1,9 @@
+{
+	"name": "azureforetlmappingdataflow",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ca780bbf-bd62-44e1-826b-83bb34719f80",
+		"tenantId": "c52023da-af69-4493-a601-36b0b97d0c3a"
+	}
+}
